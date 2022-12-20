@@ -1,3 +1,5 @@
 #!/bin/bash
 #this is a pom.xml
 echo "project script"
+echo "test for pull request"
+#this is a test
